@@ -1,0 +1,57 @@
+{
+  "name": "automatic-umbrella",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "@actions/github": "^5.0.0",
+    "atob-lite": "^2.0.0",
+    "before-after-hook": "^2.1.0",
+    "btoa-lite": "^1.0.0",
+    "cross-spawn": "^6.0.5",
+    "deprecation": "^2.3.1",
+    "end-of-stream": "^1.4.1",
+    "execa": "^1.0.0",
+    "get-stream": "^4.1.0",
+    "is-plain-object": "^3.0.0",
+    "is-stream": "^1.1.0",
+    "isexe": "^2.0.0",
+    "isobject": "^4.0.0",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.uniq": "^4.5.0",
+    "macos-release": "^2.3.0",
+    "nice-try": "^1.0.5",
+    "npm-run-path": "^2.0.2",
+    "octokit-pagination-methods": "^1.1.0",
+    "once": "^1.4.0",
+    "os-name": "^3.1.0",
+    "p-finally": "^1.0.0",
+    "path-key": "^2.0.1",
+    "pump": "^3.0.0",
+    "semver": "^5.7.1",
+    "shebang-command": "^1.2.0",
+    "shebang-regex": "^1.0.0",
+    "signal-exit": "^3.0.2",
+    "strip-eof": "^1.0.0",
+    "universal-user-agent": "^2.1.0",
+    "which": "^1.3.1",
+    "windows-release": "^3.2.0",
+    "wrappy": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vchrombie/automatic-umbrella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vchrombie/automatic-umbrella/issues"
+  },
+  "homepage": "https://github.com/vchrombie/automatic-umbrella#readme"
+}
